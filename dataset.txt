@@ -1,0 +1,40 @@
+
+Electronics:
+   - MacBook Air M1 - $1299
+   - Samsung Galaxy S21 - $799
+   - Sony WH-1000XM4 Wireless Headphones - $349
+   - Amazon Echo Dot (4th Gen) - $49.99
+   - Nikon D5600 DSLR Camera - $699
+   - **Source:** Fictional electronics store.
+
+Clothing and Fashion:
+   - Levi's 501 Original Fit Jeans - $59.99
+   - Adidas Originals Men's Trefoil Tee - $25
+   - Women's Long Sleeve V-Neck Sweater - $39.99
+   - Converse Chuck Taylor All Star Low Top Sneakers - $55
+   - Men's Hooded Fleece Jacket - $69.99
+   - **Source:** Imaginary fashion boutique.
+
+Books and Audible:
+   - The Great Gatsby by F. Scott Fitzgerald (Paperback) - $9.99
+   - Educated by Tara Westover (Kindle Edition) - $14.99
+   - Sapiens: A Brief History of Humankind by Yuval Noah Harari (Audiobook) - $24.95
+   - Becoming by Michelle Obama (Hardcover) - $19.59
+   - Atomic Habits by James Clear (Audible Audiobook) - $27.99
+   - **Source:** Fictional bookstore and online audiobook platform.
+
+Home and Kitchen:
+   - Instant Pot Duo 7-in-1 Electric Pressure Cooker - $89.99
+   - Shark Navigator Lift-Away Professional Vacuum - $199.99
+   - Nest Learning Thermostat - $249
+   - Keurig K-Elite Coffee Maker - $129.99
+   - AmazonBasics Microfiber Sheet Set (Queen) - $19.99
+   - **Source:** Fictional home and kitchen supply store.
+
+Health and Personal Care:
+   - Philips Sonicare ProtectiveClean Electric Toothbrush - $69.99
+   - Neutrogena Hydro Boost Water Gel Moisturizer - $16.97
+   - Fitbit Charge 4 Fitness and Activity Tracker - $149.95
+   - Nature Made Vitamin D3 2000 IU Softgels - $16.99
+   - Gillette Fusion5 ProGlide Men's Razor - $21.99
+   - **Source:** Imaginary health and personal care retailer.
